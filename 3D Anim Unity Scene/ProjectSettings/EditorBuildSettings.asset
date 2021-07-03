@@ -8,7 +8,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Backup 1.unity
     guid: 5c6905446301d9f4eaa8748c64a36b6c
-  - enabled: 0
-    path: Assets/Backup.unity
-    guid: 31a975372beb6af44a30c94f1a8578f2
   m_configObjects: {}
